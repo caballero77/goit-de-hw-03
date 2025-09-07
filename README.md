@@ -15,7 +15,6 @@ root
 |      4|User_4| 46|user4@example.com|
 |      5|User_5| 29|user5@example.com|
 +-------+------+---+-----------------+
-only showing top 5 rows
 
 Purchases DataFrame:
 root
@@ -34,7 +33,6 @@ root
 |          4|     72|        42|2022-01-04|       9|
 |          5|     61|        44|2022-01-05|       6|
 +-----------+-------+----------+----------+--------+
-only showing top 5 rows
 
 Products DataFrame:
 root
@@ -52,7 +50,6 @@ root
 |         4|   Product_4|Electronics|  2.6|
 |         5|   Product_5|Electronics|  9.4|
 +----------+------------+-----------+-----+
-only showing top 5 rows
 
 Початкова кількість рядків:
 Users: 100
